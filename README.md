@@ -1,16 +1,16 @@
-## Giri kumar
+# Giri kumar
 Data Science Professional | Machine Learning | Deep Learning
 
-## About me
+# About me
 - Dedicated and results-driven data science professional with a strong foundation in machine learning, deep learning, and data visualization.
 - As a Data Scientist, I harness the power of data to derive actionable insights, optimize decision-making, and drive business transformation. My expertise spans statistical modeling, predictive analytics, and AI-driven solutions, enabling organizations to stay ahead in the data-driven era. With a passion for innovation and problem-solving, I strive to bridge the gap between data and strategic decision-making.
 - Data science plays a pivotal role in modern industries by providing a 360-degree view of business operations. Leveraging advanced analytics, AI, and machine learning, businesses can enhance customer experiences, forecast market trends, and streamline processes. From healthcare and finance to retail and manufacturing, data science is shaping the future of intelligent decision-making and operational excellence.
   
-## Education
+# Education
 - Executive Post Graduate Programme in Data Science - IIIT-Bangalore (July 2022 - August 2023)
 - Bachelor of Business Administration (BBA) - Vysya College, Salem (July 2019 - April 2021)
   
-## Projects
+# Projects
 
 ### [Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
 ![](https://github.com/giri2021/Portfolio/blob/main/image/Brain%20tumor%20dection.jpeg)
@@ -40,14 +40,14 @@ Data Science Professional | Machine Learning | Deep Learning
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
 - Achieved a model accuracy of 92%, providing actionable insights for customer retention strategies.
   
-## Skills
+# Skills
 - Git, GitHub
 - Python, R, SQL
 - Machine Learning & Deep Learning
 - Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
 - Database Management: MySQL
   
-## Contact
+# Contact
 - Email: [girikumar92000@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 - LinkedIn: [linkedin.com/in/giri-kumar](https://www.linkedin.com/in/giri-kumar/)
 - GitHub: [github.com/giri2021](https://github.com/giri2021)
