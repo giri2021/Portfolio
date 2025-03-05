@@ -18,7 +18,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Performed image preprocessing and augmentation for improved detection.
 - Validated the model using real-world medical imaging datasets.
   
-![](https://github.com/giri2021/Portfolio/blob/1239bb2d6bd4b87c1eea2dd85b8719eb8334adfe/image/Brain%20tumor%20dection.jpeg)
+![](https://github.com/giri2021/Portfolio/blob/main/image/Brain%20tumor%20dection.jpeg)
   
 ### [Bike Sharing Demand Analysis:](https://github.com/giri2021/Bike-Sharing-Demand-Analysis-.git)
 - Analyzed bike usage trends using linear regression models.
