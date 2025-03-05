@@ -13,14 +13,14 @@ Data Science Professional | Machine Learning | Deep Learning
 ## Projects
 
 ### [Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
-![Brain tumor](https://github.com/giri2021/Portfolio/blob/main/web%20image/Brain%20tumor%20dection.jpeg)
+![Brain tumor dection](https://github.com/giri2021/Portfolio/blob/main/web%20image/Brain%20tumor%20dection.jpeg)
 - Developed a CNN model to detect brain tumors with 98% accuracy.
 - Utilized deep learning architectures such as ResNet and VGGNet.
 - Performed image preprocessing and augmentation for improved detection.
 - Validated the model using real-world medical imaging datasets.
   
 ### [Bike Sharing Demand Analysis:](https://github.com/giri2021/Bike-Sharing-Demand-Analysis-.git)
-![Bike sharing](https://github.com/giri2021/Portfolio/blob/main/web%20image/bike%20sharing.jpeg)
+![](https://github.com/giri2021/Portfolio/blob/main/web%20image/bike%20sharing.jpeg)
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
