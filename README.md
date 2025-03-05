@@ -27,7 +27,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Recommended data-driven strategies for fleet management.
   
 ### [House Price Prediction:](https://github.com/giri2021/Housing.git)
-![Housing ](https://github.com/giri2021/Portfolio/blob/main/web%20image/house%20price%20predictiom.jpeg)
+![house price predictiom](https://github.com/giri2021/Portfolio/blob/main/web%20image/house%20price%20predictiom.jpeg)
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
