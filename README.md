@@ -13,7 +13,7 @@ Data Science Professional | Machine Learning | Deep Learning
 ## Projects
 
 ### [Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
-[Brain tumor dection](https://github.com/giri2021/Portfolio/blob/main/web%20image/Brain%20tumor%20dection.jpeg)
+[Brain tumor dection](https://github.com/giri2021/Portfolio/blob/main/image/Brain%20tumor%20dection.jpeg)
 - Developed a CNN model to detect brain tumors with 98% accuracy.
 - Utilized deep learning architectures such as ResNet and VGGNet.
 - Performed image preprocessing and augmentation for improved detection.
