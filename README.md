@@ -34,7 +34,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Recommended data-driven strategies for fleet management.
   
 ### [Telecom Churn Prediction:](https://github.com/giri2021/Telecom-Churn.git)
-[]()
+[](https://github.com/giri2021/Portfolio/blob/main/web%20image/telecom.jpeg)
 - Developed a machine learning model to predict customer churn in the telecom industry.
 - Preprocessed customer data, including demographics, usage patterns, and service history.
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
