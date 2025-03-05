@@ -26,7 +26,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
 
-![](https://github.com/giri2021/Portfolio/blob/main/image/Bike%20sharing.png)
+![](image/Bike sharing.png)
   
 ### [House Price Prediction:](https://github.com/giri2021/Housing.git)
 - Analyzed bike usage trends using linear regression models.
