@@ -13,32 +13,36 @@ Data Science Professional | Machine Learning | Deep Learning
 # Projects
 
 ### [Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
-![](https://github.com/giri2021/Portfolio/blob/main/image/Brain%20tumor%20dection.jpeg)
 - Developed a CNN model to detect brain tumors with 98% accuracy.
 - Utilized deep learning architectures such as ResNet and VGGNet.
 - Performed image preprocessing and augmentation for improved detection.
 - Validated the model using real-world medical imaging datasets.
   
+![](https://github.com/giri2021/Portfolio/blob/main/image/Brain%20tumor%20dection.jpeg)
+  
 ### [Bike Sharing Demand Analysis:](https://github.com/giri2021/Bike-Sharing-Demand-Analysis-.git)
-![](https://github.com/giri2021/Portfolio/blob/main/image/Bike%20sharing.png)
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
+
+![](https://github.com/giri2021/Portfolio/blob/main/image/Bike%20sharing.png)
   
 ### [House Price Prediction:](https://github.com/giri2021/Housing.git)
-![](https://github.com/giri2021/Portfolio/blob/main/image/house%20price%20predictiom.jpeg)
 - Analyzed bike usage trends using linear regression models.
 - Explored the impact of weather conditions and time variables.
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
+
+![](https://github.com/giri2021/Portfolio/blob/main/image/house%20price%20predictiom.jpeg)
   
 ### [Telecom Churn Prediction:](https://github.com/giri2021/Telecom-Churn.git)
-![](https://github.com/giri2021/Portfolio/blob/main/image/telecom.jpeg)
 - Developed a machine learning model to predict customer churn in the telecom industry.
 - Preprocessed customer data, including demographics, usage patterns, and service history.
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
 - Achieved a model accuracy of 92%, providing actionable insights for customer retention strategies.
+
+![](https://github.com/giri2021/Portfolio/blob/main/image/telecom.jpeg)
   
 # Skills
 - Git, GitHub
