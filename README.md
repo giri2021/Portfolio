@@ -42,7 +42,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
 - Achieved a model accuracy of 92%, providing actionable insights for customer retention strategies.
 
-![](https://github.com/giri2021/Portfolio/blob/main/image/telecom.jpeg)
+![](https://github.com/giri2021/Portfolio/blob/bbae5ac38a4461213659573ba313c96f608358ba/image/Telecom.png)
   
 # Skills
 - Git, GitHub
